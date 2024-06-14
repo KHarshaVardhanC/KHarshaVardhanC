@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHarshaVardhanC
 - 👀 I’m interested in building websites better.
-- 🌱 I’m currently learning python full stack
+- 🌱 I’m currently a Java full stack developer
 - 📫 You reach me at Telegram username:@Katta_Harsha_Vardhan
 
 <!---
